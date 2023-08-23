@@ -19,6 +19,8 @@ step 6: Using Nested if loop check whether the student is eligible or not eligib
 step 7: print the result
 
 ## Program:
+
+ A K MOHAN RAJ
 ```
 using System;
 
